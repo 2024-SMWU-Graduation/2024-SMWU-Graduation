@@ -29,7 +29,7 @@
 
 ## 🛠️ 기술 스택
 ### Front
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742037726537?alt=media&token=60a3f731-cc5d-422b-a815-6cd1b24c65e8)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742040783155?alt=media&token=7e392aae-88b8-4ff7-86da-f247b1d90982)](https://github.com/msdio/stackticon)
 
 
 <br>
@@ -40,7 +40,7 @@
 <br>
 
 ### AI
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742036978913?alt=media&token=0643a128-d9d7-4b31-9588-66c41b7ff518)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742040725551?alt=media&token=efcd8078-934a-465b-9dd1-30d1096a5384)](https://github.com/msdio/stackticon)
 
 <br>
 
