@@ -33,10 +33,10 @@
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742036978913?alt=media&token=0643a128-d9d7-4b31-9588-66c41b7ff518)](https://github.com/msdio/stackticon)
 
 ### Infra
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742037177595?alt=media&token=99802d11-1d99-4725-a006-cb507a8e8a97)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742038272963?alt=media&token=ec337702-c4e4-4ee2-a35d-e233a65b618e)](https://github.com/msdio/stackticon)
 
 ### Tool
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742037213238?alt=media&token=436896d6-fe0f-444f-b837-fe3f0353e629)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742037918234?alt=media&token=e922f35e-1026-452e-8fea-760cb27c08eb)](https://github.com/msdio/stackticon)
 
 
 <br>
