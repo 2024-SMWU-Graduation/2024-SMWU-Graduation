@@ -1,0 +1,77 @@
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to bottom right, #99b6ec, #003087);
+  font-family: Arial, sans-serif;
+}
+
+.page {
+  background-color: white;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  width: 400px;
+  text-align: center;
+}
+
+.titleWrap {
+  font-size: 24px;
+  font-weight: bold;
+  color: #123B7B;
+  margin-bottom: 20px;
+}
+
+.contentWrap {
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+.inputTitle {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.inputWrap {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.buttonWrap {
+  margin-top: 10px;
+}
+
+.bottomButton {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.bottomButton:hover {
+  opacity: 0.8;
+}
+
+.bottomButton:first-child {
+  background-color: #003087;
+  color: white;
+}
+
+.bottomButton:last-child {
+  background-color: #003087;
+  color: white;
+}

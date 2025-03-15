@@ -1,0 +1,133 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to bottom right, #99b6ec, #003087);
+  font-family: Arial, sans-serif;
+}
+
+.login-box {
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  width: 100%;
+  max-width: 400px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.login-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.login-title {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #003087;
+}
+
+.input-group {
+  margin-bottom: 1.5rem;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #333333;
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.input-group input:focus {
+  border-color: #4CAF50;
+  box-shadow: 0 0 8px rgba(76, 175, 80, 0.3);
+  outline: none;
+}
+
+.login-button {
+  width: 100%;
+  padding: 0.75rem;
+  background-color: #003087;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.login-button:hover {
+  /* background-color: #45a049; */
+  transform: scale(1.02);
+}
+
+.social-login {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.kakao-login, .naver-login {
+  width: 100%;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.2s ease, opacity 0.3s ease;
+}
+
+.kakao-login {
+  background-color: #FEE500;
+  color: #000000;
+}
+
+.kakao-login:hover {
+  opacity: 0.85;
+  transform: scale(1.02);
+}
+
+.naver-login {
+  background-color: #03C75A;
+  color: #ffffff;
+}
+
+.naver-login:hover {
+  opacity: 0.85;
+  transform: scale(1.02);
+}
+
+.register-link {
+  margin-top: 1.5rem;
+  text-align: center;
+  color: #555555;
+  font-size: 0.9rem;
+}
+
+.register-link a {
+  color: #4CAF50;
+  font-weight: bold;
+  text-decoration: none;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.register-link a:hover {
+  color: #45a049;
+  text-decoration: underline;
+}

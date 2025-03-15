@@ -1,0 +1,30 @@
+
+.next-video-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    position: absolute;
+    /* bottom: 20px; 페이지 하단으로 이동 */
+  }
+
+  .next-video-btn {
+    margin: 5px;
+    /* padding: 12px 24px; */
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+
+    background: none;
+    border: 2px solid #003087;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #003087;
+    transition: all 0.3s ease;
+  }
+
+  .next-video-btn:hover {
+    transform: translateX(5px);
+  }

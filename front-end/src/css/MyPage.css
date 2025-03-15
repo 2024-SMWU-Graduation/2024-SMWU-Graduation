@@ -1,0 +1,39 @@
+.my-page {
+  display: flex;
+  /*max-width: 1200px;*/
+  padding: 2rem;
+  /*background-color: #f8f9fa;*/
+}
+
+.sidebar {
+  width: 250px;
+  padding: 1rem;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  height: 20rem;
+}
+
+.menu-item {
+  display: block;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+  text-align: left;
+  background: none;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.menu-item:hover, .menu-item.active {
+  background-color: #e9ecef;
+}
+
+.content {
+  flex-grow: 1;
+  padding: 2rem;
+  margin-left: 2rem;
+  background-color: white;
+}

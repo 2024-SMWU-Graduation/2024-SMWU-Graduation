@@ -1,0 +1,102 @@
+.user-profile {
+    display: flex;
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    /*max-width: 800px;*/
+    margin: 0 auto;
+}
+
+.profile-left {
+    flex: 0 0 200px;
+    margin-left: 2rem;
+    margin-right: 30px;
+}
+
+.profile-image {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.login-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.profile-right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.name-area {
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-info h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.info-item {
+    margin-bottom: 15px;
+}
+
+.info-label {
+    font-weight: bold;
+    color: #666;
+    margin-right: 10px;
+    min-width: 80px;
+    display: inline-block;
+}
+
+.info-value {
+    color: #333;
+}
+
+.profile-actions {
+    margin-top: 20px;
+}
+
+.edit-button, .delete-button {
+    padding: 8px 15px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+.edit-button {
+    background-color: #003087;
+    color: white;
+}
+
+.edit-button:hover {
+    background-color: #003087;
+}
+
+.delete-text {
+    margin-left: 20px;
+    font-size: 14px;
+    color: lightgray;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.delete-text:hover {
+    color: gray;
+}
+
