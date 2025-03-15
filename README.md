@@ -1,5 +1,11 @@
 # 👩‍💻 이지터뷰 (Easy-terview) : AI 면접 피드백 서비스
 
+- [Front-End Repository](https://github.com/2024-SMWU-Graduation/Frontend)   
+- [Back-End Repository](https://github.com/2024-SMWU-Graduation/Backend)   
+- [AI Repository](https://github.com/2024-SMWU-Graduation/AI)   
+
+
+
 <br>
 
 ![Image](https://github.com/user-attachments/assets/ed999474-8efd-4bee-9702-b871bf2465e1)
@@ -26,14 +32,22 @@
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742037726537?alt=media&token=60a3f731-cc5d-422b-a815-6cd1b24c65e8)](https://github.com/msdio/stackticon)
 
 
+<br>
+
 ### Back
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742036996825?alt=media&token=4c637b03-4d71-4eb9-bd48-d0a2f6ed1950)](https://github.com/msdio/stackticon)
+
+<br>
 
 ### AI
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742036978913?alt=media&token=0643a128-d9d7-4b31-9588-66c41b7ff518)](https://github.com/msdio/stackticon)
 
+<br>
+
 ### Infra
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742038272963?alt=media&token=ec337702-c4e4-4ee2-a35d-e233a65b618e)](https://github.com/msdio/stackticon)
+
+<br>
 
 ### Tool
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742037918234?alt=media&token=e922f35e-1026-452e-8fea-760cb27c08eb)](https://github.com/msdio/stackticon)
