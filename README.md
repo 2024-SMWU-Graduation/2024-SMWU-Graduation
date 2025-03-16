@@ -63,7 +63,8 @@
 
 ## ⚙️ ERD
 
-- 이미지 첨부 예정 
+![Interview (1) (1)](https://github.com/user-attachments/assets/9651ddfe-c56a-4e4c-81f4-8224a1ffe1ef)
+
 
 <br>
 
