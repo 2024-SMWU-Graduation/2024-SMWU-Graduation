@@ -40,7 +40,7 @@
 <br>
 
 ### AI
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742040725551?alt=media&token=efcd8078-934a-465b-9dd1-30d1096a5384)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1742131771687?alt=media&token=36fac4bc-3e6a-4231-b145-910ffe750c84)](https://github.com/msdio/stackticon)
 
 <br>
 
@@ -57,7 +57,8 @@
 
 ## ⚙️ 시스템 아키텍처 
 
-- 이미지 첨부 예정
+![이지터뷰 서비스 아키텍처 (1)](https://github.com/user-attachments/assets/a6c8f6bb-5776-40ce-a955-31df769ee509)
+
 
 <br>
 
